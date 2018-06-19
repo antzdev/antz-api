@@ -1,10 +1,10 @@
 {
   "name": "antz",
-  "host": "maelstrom",
+  "host": "localhost",
   "port": 3008,
-  "eventhost": "maelstrom",
+  "eventhost": "localhost",
   "eventport": 3003,
-  "factoryhost": "maelstrom",
+  "factoryhost": "localhost",
   "factoryport": 3000,
   "isdebug": true,
   "version": "1.0.0",
