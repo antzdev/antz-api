@@ -1,1 +1,2 @@
-when_ant_is_created.js
+function when_ant_is_created(){
+}
