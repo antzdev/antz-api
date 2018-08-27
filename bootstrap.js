@@ -5,7 +5,7 @@ utils.loadClientScript(document,"https://cdnjs.cloudflare.com/ajax/libs/three.js
 		entities: [{name: "example",type:"png"}]
 	});
 	sceneFactory.create().then((scene)=>{
-		document.body.appendChild(scene.renderer.domElement );
+		document.body.appendChild(scene.domElement );
 		window.addEventListener('resize',()=>{
 			scene.camera.aspect=(window.innerWidth/window.innerHeight);
 			scene.camera.updateProjectionMatrix();
