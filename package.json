@@ -15,6 +15,9 @@
             "npm": "4.2.0"
         }
     },
+    "dependencies":{
+        "utils":"git+https://github.com/marchuanv/utils-api.git"
+    }
     "repository": {
         "type": "git",
         "url": "https://github.com/marchuanv/antz.git"
