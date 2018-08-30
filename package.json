@@ -10,10 +10,8 @@
         "url": "https://github.com/marchuanv/antz/issues"
     },
     "engines": {
-        "engines": {
-            "node": "8.11.3",
-            "npm": "4.2.0"
-        }
+        "node": "8.11.3",
+        "npm": "4.2.0"
     },
     "dependencies":{
         "utils-api":"git+https://github.com/marchuanv/utils-api.git"
