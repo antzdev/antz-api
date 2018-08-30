@@ -16,7 +16,7 @@
         }
     },
     "dependencies":{
-        "utils":"git+https://github.com/marchuanv/utils-api.git"
+        "utils-api":"git+https://github.com/marchuanv/utils-api.git"
     }
     "repository": {
         "type": "git",
